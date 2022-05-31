@@ -1,0 +1,15 @@
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\bin\Debug\net6.0\arrayAlea.exe
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\bin\Debug\net6.0\arrayAlea.deps.json
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\bin\Debug\net6.0\arrayAlea.runtimeconfig.json
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\bin\Debug\net6.0\arrayAlea.dll
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\bin\Debug\net6.0\arrayAlea.pdb
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\obj\Debug\net6.0\arrayAlea.csproj.AssemblyReference.cache
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\obj\Debug\net6.0\arrayAlea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\obj\Debug\net6.0\arrayAlea.AssemblyInfoInputs.cache
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\obj\Debug\net6.0\arrayAlea.AssemblyInfo.cs
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\obj\Debug\net6.0\arrayAlea.csproj.CoreCompileInputs.cache
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\obj\Debug\net6.0\arrayAlea.dll
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\obj\Debug\net6.0\refint\arrayAlea.dll
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\obj\Debug\net6.0\arrayAlea.pdb
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\obj\Debug\net6.0\arrayAlea.genruntimeconfig.cache
+C:\Users\EF\Documents\programacion\Visual Studio\clase9\arrayAlea\arrayAlea\obj\Debug\net6.0\ref\arrayAlea.dll
